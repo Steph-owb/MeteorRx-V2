@@ -61,7 +61,7 @@ always get the current, working version. Bundled third-party components keep the
 ## Acknowledgements
 
 Written at the request of **Joe 9H1VW**, with long hours of on-air testing by **Tony IK1HGI** and by
-the operators who kept running after each new build — your logs found most of what got fixed.
+the operators Dave Hunt and Gary Day who kept running after each new build — your logs found most of what got fixed.
 
 A nod, too, to the anonymous contributor on the far side of the world who, during the private test
 phase, took an early build and re-published it without a word of credit. No hard feelings — but it is
