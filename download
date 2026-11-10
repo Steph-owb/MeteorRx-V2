@@ -1,0 +1,11 @@
+# Public repo: compiled release + docs only. Never commit source or build output.
+*.py
+*.pyc
+*.pyd
+*.c
+*.h
+*.so
+_dsp_ref.py
+build_nuitka/
+dist_public/
+MeteorRX-*-win64.zip

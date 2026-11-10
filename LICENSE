@@ -1,0 +1,75 @@
+MeteorRX License 2.0
+Copyright (c) 2026 Stephan, 9H2WB / F5OWB. All rights reserved.
+
+MeteorRX is free-to-use amateur-radio software. It is NOT open-source and NOT
+public-domain: the author keeps all rights not expressly granted below. Please
+read these terms before using the software.
+
+1. DEFINITIONS
+   "Software" means the MeteorRX application distributed by the author as a
+   compiled Windows package (executable, bundled runtime, data and
+   documentation), and any update the author distributes.
+   "Author" means Stephan, amateur-radio callsigns 9H2WB / F5OWB.
+   "You" means the individual or entity using the Software.
+
+2. GRANT OF USE
+   The Author grants You a free, personal, non-exclusive, non-transferable,
+   revocable licence to:
+   (a) download the Software from the Author's official distribution channel;
+   (b) install and run it on computers You own or control;
+   (c) use it for personal and amateur-radio purposes, including demonstration
+       and testing within a radio club or at a public amateur-radio event.
+   No fee is charged for this use.
+
+3. RESTRICTIONS
+   Except where a mandatory law gives You a right that cannot be waived, You may
+   NOT:
+   (a) redistribute, republish, mirror, upload, bundle, sell, rent, lend or
+       otherwise make the Software (whole or in part, modified or not) available
+       to any third party. Direct others to the Author's official channel
+       instead;
+   (b) modify, adapt, translate or create derivative works of the Software for
+       distribution;
+   (c) reverse engineer, decompile, disassemble, deobfuscate or otherwise
+       attempt to reconstruct or discover the source code or internal design of
+       the Software or of any native component the Author authored;
+   (d) remove, alter or obscure any copyright, licence, callsign or attribution
+       notice.
+   The Author may distribute the source of the Software privately, under separate
+   written terms, to collaborators of the Author's choosing. This licence does
+   not grant access to that source.
+
+4. THIRD-PARTY COMPONENTS
+   The Software is distributed with third-party components that remain under
+   their own licences, listed in THIRD_PARTY_NOTICES.md. Nothing in this licence
+   limits Your rights under those licences with respect to those components. In
+   particular, the bundled RTL-SDR driver library and the Zadig installer are
+   licensed under the GNU GPL (v2-or-later and v3 respectively); their
+   corresponding source is identified in THIRD_PARTY_NOTICES.md and in the
+   SOURCE.txt files shipped beside them. The terms of Sections 2 and 3 apply only
+   to the Author's own work and not to those third-party components.
+
+5. RESERVATION OF RIGHTS
+   All rights not expressly granted are reserved by the Author. The Author may
+   release future versions under the same or different terms, and may revoke this
+   licence for a given recipient in case of breach.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. MeteorRX is a hobby
+   project for experimental amateur-radio reception and is not certified for any
+   operational, safety or navigational use.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+8. TERM
+   This licence applies for as long as You comply with it. It terminates
+   automatically if You breach any term; on termination You must stop using and
+   delete the Software.
+
+Contact for permissions beyond this licence (redistribution, source access,
+collaboration): the Author, via the official MeteorRX repository.
