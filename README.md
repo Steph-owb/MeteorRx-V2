@@ -6,7 +6,7 @@ MeteorRX does one job well: receive **Meteor-M N2-3 / N2-4 LRPT** weather imager
 show you whether the signal is good (eye diagram, S-meter, live picture), and save the pictures —
 automatically, pass after pass. It is self-contained: one folder, double-click, no install.
 
-*By Stephan **9H2WB / F5OWB**, Malta Amateur Radio League (MARL).*
+*By Stephan **9H2WB / F5OWB**
 
 ![MeteorRX](docs/screenshot.jpg)
 
