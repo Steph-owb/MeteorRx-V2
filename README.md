@@ -60,11 +60,13 @@ always get the current, working version. Bundled third-party components keep the
 
 ## Acknowledgements
 
-Written at the request of **Joe 9H1VW**, with long hours of on-air testing by the operators Dave Hunt and Gary Day who kept running after each new build — your logs found most of what got fixed.
+Written at the request of **Joe 9H1VW**, with long hours of on-air testing by the operators Dave Hunt and Gary Day who kept running after each new build — your logs found most of what got fixed. Another token of appreciation to Denis F6GKQ and Antonio G. who provided major input for the last version and helped remotely in adding Airspy devices to this software.
+Thank you all !
 
 A nod, too, to the anonymous contributor on the far side of the world who, during the private test
-phase, took an early build and re-published it without a word of credit. No hard feelings — but it is
-the reason MeteorRX 2.0 ships as a finished program rather than open sources: the code now stays home
-until a version is ready, and the licence simply states in writing what good manners used to cover.
+phase, took an early build and re-published and keep republishing it without a word of credit. 
+
+No hard feelings — but it is the reason MeteorRX 2.0 ships as a finished program rather than open sources: 
+the code now stays home until a version is ready, and the licence simply states in writing what good manners used to cover.
 
 Coastlines: Natural Earth (public domain). City names: GeoNames (CC BY 4.0).
