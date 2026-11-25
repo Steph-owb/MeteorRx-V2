@@ -60,7 +60,7 @@ always get the current, working version. Bundled third-party components keep the
 
 ## Acknowledgements
 
-Written at the request of **Joe 9H1VW**, with long hours of on-air testing by the operators Dave Hunt and Gary Day who kept running after each new build — your logs found most of what got fixed. Another token of appreciation to Denis F6GKQ and Antonio G. who provided major input for the last version and helped remotely in adding Airspy devices to this software.
+Written at the request of **Joe 9H1VW**, with long hours of on-air testing by the operators Dave Hunt and Gary Day who kept running after each new build — your logs found most of what got fixed. Another token of appreciation to Denis F6GKQ and Antonio 1WM486 who provided major input for the last version and helped remotely in adding Airspy devices to this software.
 Thank you all !
 
 A nod, too, to the anonymous contributor on the far side of the world who, during the private test
